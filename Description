@@ -1,0 +1,4 @@
+Analyzed healthcare appointment data using MySQL queries to identify patient visit trends and doctor performance.
+Wrote complex SQL queries using JOIN, GROUP BY, CTEs, and aggregate functions to extract insights from relational tables.
+Calculated key metrics such as appointment frequency, no-show rates, and revenue trends.
+Built structured datasets for reporting and further visualization in BI tools.
